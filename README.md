@@ -6,6 +6,12 @@
   <img src="assets/framework_overview.png" alt="Overview of the proposed framework" width="100%">
 </p>
 
+
+
+## Huggingface app
+You can currently click the link below to test your images:
+https://huggingface.co/spaces/wuweiquantou/SIR-POR
+
 ## Overview
 
 This repository implements a four-class ROP stage classification framework using color fundus images.
